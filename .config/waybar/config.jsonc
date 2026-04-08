@@ -8,7 +8,7 @@
   "margin-left": 0,
   "margin-right": 0,
   "height": 29,
-  "modules-left": ["group/userspace","mpris"],
+  "modules-left": ["group/userspace","custom/cava"],
   "modules-center": ["group/center"],
   "modules-right": [
     "group/righty",

@@ -22,7 +22,7 @@ window#waybar {
 
 window#waybar > box {
   background-color: rgba(0, 0, 0, 0);
-  padding: 4px 0px;
+  padding: 4.5px 0px;
 }
 
 #workspaces {
@@ -83,8 +83,6 @@ window#waybar > box {
   padding: 0px 1px;
 }
 
-#custom-cava,
-
 #custom-gpu {
   padding: 0px 8px;
 }
@@ -119,19 +117,18 @@ window#waybar > box {
   background-color: @background;
 }
 
-#custom-headset_battery {
-  color: @foreground;
-  font-size: 13px;
-  color: @foreground-blue;
+#custom-cava {
+  background-color: @background;
+  padding: 0px 10px;
+  border-radius: 18px;
+  padding-top:2px;
 }
 
 #zvuk {
   color: @foreground;
-  padding: 0px 0px;
 }
 
 #pulseaudio {
-  border-radius: 0px;
   font-weight: 700;
   padding: 0px 5px;
 }
@@ -141,20 +138,17 @@ window#waybar > box {
 }
 
 #pulseaudio.input.source-muted {
-  font-family: "JetBrains Mono NerdFont";
   color: @red;
 }
 
 #language {
   font-weight: 700;
-  color: @foreground;
   padding: 0px 5px;
 }
 
 #bluetooth {
-  font-family: "JetBrains Mono NerdFont";
   padding: 0px 8px 0px 3px;
-  font-size: 12px;
+  font-size: 11px;
 }
 
 #network {
@@ -202,7 +196,7 @@ window#waybar > box {
 #righty {
   background-color: @background;
   border-radius: 18px;
-  padding: 0px 15px;
+  padding: 0px 9px;
   margin-left: 10px;
 }
 
