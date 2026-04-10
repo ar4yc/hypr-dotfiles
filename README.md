@@ -25,5 +25,5 @@ git clone https://github.com/ar4yc/my-dotfiles.git && cp -r my-dotfiles/.config 
 ```
 * #### Install Programs #
 ```bash
-yay -S pipewire pipewire-pulse wireplumber alsa-utils pavucontrol waybar cava playerctl mpv overskride-bin dolphin swaync wofi kitty gtk3 gtk4 qt6ct archlinux-xdg-menu wl-clipboard wtype cliphist flameshot-git swaybg waypaper hyprpicker hyprpolkitagent
+yay -S pavucontrol nm-applet waybar cava playerctl overskride-bin dolphin swaync wofi kitty gtk3 gtk4 qt6ct archlinux-xdg-menu wl-clipboard wtype cliphist flameshot-git swaybg waypaper hyprpicker hyprpolkitagent
 ```
