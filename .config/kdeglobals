@@ -1,0 +1,13 @@
+[Icons]
+Theme=Tela-black-dark
+
+[KDE]
+ShowDeleteCommand=false
+widgetStyle=qt6ct-style
+
+[PreviewSettings]
+EnableRemoteFolderThumbnail=false
+MaximumRemoteSize=0
+
+[General]
+TerminalApplication=kitty

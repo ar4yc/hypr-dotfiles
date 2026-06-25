@@ -1,0 +1,65 @@
+MenuBar=Disabled
+
+[ContentDisplay]
+ElidingMode=Right
+UseShortRelativeDates=false
+
+[ContextMenu]
+ShowAddToPlaces=false
+ShowCopyLocation=false
+ShowCopyToOtherSplitView=false
+ShowDuplicateHere=false
+ShowMoveToOtherSplitView=false
+ShowOpenInNewTab=false
+ShowOpenInNewWindow=false
+ShowOpenInSplitView=false
+ShowSortBy=false
+ShowViewMode=false
+
+[DetailsMode]
+ExpandableFolders=false
+IconSize=22
+LeftPadding=0
+
+[General]
+ConfirmClosingMultipleTabs=false
+ConfirmClosingTerminalRunningProgram=false
+DoubleClickViewAction=none
+DynamicView=true
+EditableUrl=true
+RememberOpenedTabs=false
+ShowFullPath=true
+ShowFullPathInTitlebar=true
+ShowStatusBar=Disabled
+TabStyle=FullWidth
+Version=202
+ViewPropsTimestamp=2026,6,25,16,54,26.198
+
+[InformationPanel]
+dateFormat=ShortFormat
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=16
+
+[MainWindow]
+MenuBar=Disabled
+
+[MainWindow][Toolbar mainToolBar]
+IconSize=16
+ToolButtonStyle=IconOnly
+
+[Notification Messages]
+ConfirmOpenManyFolders=false
+ConfirmOpenManyTerminals=false
+ConfirmRenameFileType=false
+
+[PlacesPanel]
+IconSize=16
+
+[PreviewSettings]
+Plugins=appimagethumbnail,glycin-heif,glycin-image-rs,glycin-jxl,glycin-svg,webp-pixbuf,gsf-office,opendocumentthumbnail,kraorathumbnail,audiothumbnail,imagethumbnail,exrthumbnail,jpegthumbnail,windowsimagethumbnail,svgthumbnail,windowsexethumbnail,comicbookthumbnail,directorythumbnail,mltpreview,djvuthumbnail,cursorthumbnail,ebookthumbnail
+
+[Toolbar mainToolBar]
+IconSize=16
+ToolButtonStyle=IconOnly

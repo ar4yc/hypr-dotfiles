@@ -1,0 +1,22 @@
+* {
+	font-family: CALICOMP;
+	font-size: 16
+}
+
+window {
+	border-radius: 18px;
+}
+
+#input {
+	background-color: rgb(16, 20, 25);
+	border: 2px solid rgb(130, 142, 175);
+	border-radius: 14px 14px 0px 0px;
+}
+
+#entry:selected {
+	background-color: rgba(0, 0, 0, 0.9);
+	border-left: 2px solid rgba(255, 255, 255, 1.0);
+	border-right: 2px solid rgba(255, 255, 255, 1.0);
+	border-top: 2px solid rgba(255, 255, 255, 1.0);
+	border-bottom: 2px solid rgba(255, 255, 255, 1.0);
+}
