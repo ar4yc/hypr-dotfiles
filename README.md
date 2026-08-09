@@ -1,4 +1,4 @@
-# ⚠️ Warning! <br> Project OUTDATED
+# ⚠️ Warning! <br> <br> Project OUTDATED
 
 ## My dotfiles for hyprland WM 
 
