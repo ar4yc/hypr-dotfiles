@@ -1,5 +1,7 @@
 > ## ⚠️ Warning!
-> * Project OUTDATED
+> This Project OUTDATED!
+> * Hyprland 0.57+ will use Lua for configuration, and the old .conf format will no longer be supported.
+> * This configuration uses outdated syntax from older 0.54 version.
 
 <br>
 
