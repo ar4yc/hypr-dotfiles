@@ -1,5 +1,5 @@
-# ⚠️ Warning! <br> <br> Project OUTDATED
-<br> <br> <br>
+> # ⚠️ Warning! <br> <br> Project OUTDATED
+<br> <br>
 ## My dotfiles for hyprland WM 
 
 ### Used:
