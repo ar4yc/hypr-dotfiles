@@ -2,6 +2,7 @@
 > * Project OUTDATED
 
 <br>
+
 ## My dotfiles for hyprland WM 
 
 ### Used:
