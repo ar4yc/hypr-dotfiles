@@ -1,4 +1,8 @@
-# My dotfiles for hyprland WM 
+# Project OUTDATED 
+
+
+
+## My dotfiles for hyprland WM 
 
 ### Used:
 * Terminal - Kitty
