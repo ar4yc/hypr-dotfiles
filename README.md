@@ -1,6 +1,5 @@
-# Project OUTDATED 
-
-
+# ⚠️ Warning!
+#             Project OUTDATED
 
 ## My dotfiles for hyprland WM 
 
